@@ -34,4 +34,7 @@ sequential> * <highest of the row> points. For example having the cards: 2 of Di
 5. The last (fifth) rule is adding the difference between the highest card and the lowest
 card. With the same cards as the previous rule (2 of Diamonds, 3 of Hearts, 5 of Clubs, 6
 of Clubs and 7 of Spades) it will add an additional 7 - 2 = 5 points.
+  
+  
+(https://i.imgur.com/VKOF2mr.png)
 
