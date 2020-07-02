@@ -36,5 +36,5 @@ card. With the same cards as the previous rule (2 of Diamonds, 3 of Hearts, 5 of
 of Clubs and 7 of Spades) it will add an additional 7 - 2 = 5 points.
   
   
-(https://i.imgur.com/VKOF2mr.png)
+![](https://i.imgur.com/VKOF2mr.png)
 
